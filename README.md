@@ -196,9 +196,9 @@ Key references:
 
 ## 📬 Author
 
-**Your Name**  
+**Sadaqat Hussain**  
 Undergraduate Student | Data Science + Bioscience  
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@sadaqat1851](https://github.com/sadaqat1851)
 
 ---
 
